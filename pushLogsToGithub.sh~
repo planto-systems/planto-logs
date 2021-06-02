@@ -1,4 +1,5 @@
 #/bin/sh
+cd /home/pi/githubRepos/planto-logs
 /usr/bin/git add *
 commit_message=$(date)
 echo "$commit_message">>/home/pi/log.txt

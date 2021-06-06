@@ -10,3 +10,7 @@ mv ${logpath}sg1.log $logarchivepath${yesterday}_$sg1Log
 touch {logpath}$sg1Log
 mv ${logpath}$sg2Log $logarchivepath${yesterday}_$sg2Log
 touch {logpath}$sg2Log
+/home/pi/githubRepos/planto-logs
+/home/pi/githubRepos/planto-logs/pushLogsToGithub.sh
+rsync --remove-source-files -a /home/pi/githubRepos/planto-logs/archive/* /mnt/planto/logs/
+rsync --remove-source-files -a /home/pi/githubRepos/planto-logs/cam/* /mnt/planto/cam/

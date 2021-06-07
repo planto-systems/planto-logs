@@ -243,3 +243,176 @@
 {"ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN","ambient temperature top chamber [K]":"NaN","ambient temperature outside [K]":"NaN"}
 {"temperature cooling water tank [K]":"NaN","ambient temperature top chamber [K]":"NaN","ambient temperature outside [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
 {"timestamp":"2021-06-07T02:30:02.140Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","timestamp":"2021-06-07T02:30:04.460Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:07.565Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","timestamp":"2021-06-07T02:30:09.885Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:13.241Z","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"ambient temperature top chamber [K]":"NaN","timestamp":"2021-06-07T02:30:15.310Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:18.665Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"ambient temperature bottom chamber [K]":"NaN","timestamp":"2021-06-07T02:30:20.735Z","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:24.094Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","timestamp":"2021-06-07T02:30:26.416Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"ambient temperature top chamber [K]":"NaN","ambient temperature outside [K]":"NaN","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN","ambient temperature top chamber [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","ambient temperature top chamber [K]":"NaN","ambient temperature outside [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:32.649Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","timestamp":"2021-06-07T02:30:34.969Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:38.075Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","timestamp":"2021-06-07T02:30:40.395Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:45.345Z","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:47.328Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:51.020Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:30:53.773Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN","timestamp":"2021-06-07T02:30:55.898Z","ambient temperature bottom chamber [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","timestamp":"2021-06-07T02:30:57.967Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:02.622Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:05.146Z","ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:07.267Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:09.788Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN","timestamp":"2021-06-07T02:31:13.663Z","ambient temperature top chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:15.818Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","ambient temperature top chamber [K]":"NaN","timestamp":"2021-06-07T02:31:18.179Z","ambient temperature bottom chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:21.236Z","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN","timestamp":"2021-06-07T02:31:23.525Z","temperature cooling water tank [K]":"NaN"}
+{"ambient temperature outside [K]":"NaN","timestamp":"2021-06-07T02:31:25.831Z","ambient temperature top chamber [K]":"NaN","ambient temperature bottom chamber [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:27.940Z","temperature cooling water tank [K]":"NaN","ambient temperature outside [K]":"NaN"}
+{"ambient temperature top chamber [K]":"NaN","timestamp":"2021-06-07T02:31:29.719Z","ambient temperature bottom chamber [K]":"NaN","temperature cooling water tank [K]":"NaN"}
+{"timestamp":"2021-06-07T02:31:34.828Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:31:37.148Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:31:40.257Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"ambient temperature outside [K]":"295.15","timestamp":"2021-06-07T02:31:42.573Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:31:45.928Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"ambient temperature top chamber [K]":"296.15","timestamp":"2021-06-07T02:31:47.998Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:31:51.353Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"ambient temperature bottom chamber [K]":"293.15","timestamp":"2021-06-07T02:31:53.423Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:31:56.778Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:31:59.098Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:02.203Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"ambient temperature outside [K]":"295.15","timestamp":"2021-06-07T02:32:04.523Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:32:10.273Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:32:12.593Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:15.698Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"ambient temperature outside [K]":"295.15","timestamp":"2021-06-07T02:32:18.023Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:32:21.373Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"ambient temperature top chamber [K]":"296.15","timestamp":"2021-06-07T02:32:23.443Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:26.798Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"ambient temperature bottom chamber [K]":"293.15","timestamp":"2021-06-07T02:32:28.868Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:32:32.223Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:32:34.556Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:37.648Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"ambient temperature outside [K]":"295.15","timestamp":"2021-06-07T02:32:39.969Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:32:43.324Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"ambient temperature top chamber [K]":"296.15","timestamp":"2021-06-07T02:32:45.393Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:48.749Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"ambient temperature bottom chamber [K]":"293.15","timestamp":"2021-06-07T02:32:50.819Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:32:54.174Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:32:56.494Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:32:59.598Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"ambient temperature outside [K]":"295.15","timestamp":"2021-06-07T02:33:01.919Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:33:05.274Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"ambient temperature top chamber [K]":"296.15","timestamp":"2021-06-07T02:33:07.344Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:10.699Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"ambient temperature bottom chamber [K]":"293.15","timestamp":"2021-06-07T02:33:12.769Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:33:16.124Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"temperature cooling water tank [K]":"296.15","timestamp":"2021-06-07T02:33:18.444Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:23.925Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:27.280Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:33:30.635Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:33.739Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:33:37.095Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:41.514Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:33:45.487Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:48.913Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:33:51.741Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:33:55.433Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:33:58.834Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:34:01.509Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:34:05.037Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:09.716Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:12.807Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:35:16.441Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:19.179Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:35:22.992Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:26.232Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:35:29.765Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:31.614Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:35:34.971Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:38.324Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:35:41.679Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:44.790Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:35:48.139Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:51.494Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:35:54.849Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:35:57.953Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:36:01.309Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:04.664Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:36:08.019Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:11.124Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:36:14.478Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:17.834Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:36:21.190Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:24.294Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:36:27.651Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:31.004Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:36:34.359Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:37.463Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:36:40.818Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:44.174Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:36:47.528Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:50.633Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:36:53.988Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:36:57.343Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:37:00.703Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:03.803Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:07.158Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:37:10.513Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:37:13.868Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:16.974Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:20.328Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:37:23.684Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:37:27.039Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:37:30.143Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:33.498Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:37:36.853Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:37:40.209Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:43.313Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:46.668Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:37:50.023Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:37:53.378Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:56.487Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:37:59.838Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:38:06.323Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:38:09.677Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:38:13.033Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:38:16.138Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:38:19.507Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:38:22.848Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:38:26.203Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"296.15"}
+{"timestamp":"2021-06-07T02:38:29.308Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:38:32.662Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T02:38:36.018Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T02:38:39.373Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T02:38:42.478Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T02:38:45.833Z","ambient temperature top chamber [K]":"296.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:38:56.750Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:39:00.105Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T04:39:03.460Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:06.565Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:09.920Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:39:13.275Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T04:39:16.630Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:19.735Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:23.090Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:39:26.446Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T04:39:29.801Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:32.905Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:36.260Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:39:39.615Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T04:39:42.970Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:46.075Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:49.430Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}
+{"timestamp":"2021-06-07T04:39:52.785Z","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15"}
+{"timestamp":"2021-06-07T04:39:56.140Z","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15","ambient temperature top chamber [K]":"295.15"}
+{"timestamp":"2021-06-07T04:39:59.245Z","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15","ambient temperature outside [K]":"295.15"}
+{"timestamp":"2021-06-07T04:40:02.600Z","ambient temperature top chamber [K]":"295.15","ambient temperature bottom chamber [K]":"293.15","temperature cooling water tank [K]":"296.15"}

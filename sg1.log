@@ -13047,3 +13047,471 @@
 {"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:09:58.037Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
 {"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:09:58.949Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
 {"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:00.115Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:01.027Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:02.145Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:03.073Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:03.985Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:05.152Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:06.082Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:06.994Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:08.109Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:09.037Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:09.949Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:11.115Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:12.027Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:13.146Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:14.074Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:14.985Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:16.152Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:17.079Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:17.991Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:19.109Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:20.041Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:20.948Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:22.115Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:23.043Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:24.162Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:25.073Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:26.001Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:27.151Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:28.079Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:28.994Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:30.109Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:31.037Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:31.948Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:33.115Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:34.043Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:35.161Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:36.073Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:37.000Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:38.151Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:39.079Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:39.990Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:41.125Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:42.037Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:42.948Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:44.115Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:45.042Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:46.161Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:47.072Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:48.000Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:49.151Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:50.080Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:50.990Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:52.124Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:53.036Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:53.963Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:55.117Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:56.045Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:57.161Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:58.072Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:10:59.000Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:00.167Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:01.078Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:02.005Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:03.124Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:04.036Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:04.963Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:06.114Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:07.042Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:08.163Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:09.088Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:10.003Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:11.166Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:12.078Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:13.005Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:14.124Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:15.036Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:15.963Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:17.130Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:18.042Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:19.161Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:20.088Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:20.999Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:22.166Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:23.077Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:24.009Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:25.124Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:26.035Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:26.963Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:28.130Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:29.041Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:30.160Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:31.087Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:31.999Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:33.166Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:34.078Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:35.005Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:36.128Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:37.051Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:38.202Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:39.129Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:40.041Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:41.159Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:42.087Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:42.999Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:44.165Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:45.093Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:46.005Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:47.123Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:48.051Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:48.962Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:50.130Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:51.044Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:52.176Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:53.087Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:54.015Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:55.166Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:56.093Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:57.212Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:58.127Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:59.051Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:11:59.962Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:01.129Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:02.057Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:03.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:04.086Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:05.014Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:06.166Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:07.092Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:08.004Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:09.123Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:10.050Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:11.218Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:12.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:13.056Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:14.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:15.087Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:16.014Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:17.182Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:18.092Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:19.212Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:20.139Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:21.051Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:22.217Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:23.129Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:24.056Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:25.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:26.086Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:27.014Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:28.181Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:29.092Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:30.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:31.139Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:32.050Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:33.217Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:34.128Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:35.056Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:36.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:37.102Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:38.014Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:39.181Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:40.096Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:41.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:42.139Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:43.050Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:44.217Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:45.147Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:46.059Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:47.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:48.102Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:49.014Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:50.181Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:51.092Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:52.227Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:53.139Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:54.069Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:55.217Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:56.144Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:57.055Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:58.175Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:12:59.102Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:00.013Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:01.181Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:02.107Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:03.227Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:04.138Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:05.065Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:06.217Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:07.144Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:08.059Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:09.190Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:10.102Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:11.029Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:12.183Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:13.111Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:14.227Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:15.138Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:16.065Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:17.236Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:18.144Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:19.071Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:20.190Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:21.101Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:22.029Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:23.184Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:24.107Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:25.226Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:26.153Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:27.064Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:28.232Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:29.144Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:30.071Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:31.193Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:32.102Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:33.029Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:34.196Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:35.111Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:36.230Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:37.154Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:38.065Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:39.232Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:40.147Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:41.071Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:42.190Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:43.118Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:44.029Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:45.196Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:46.107Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:47.227Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:48.154Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:49.068Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:50.232Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:51.160Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:52.071Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:53.192Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:54.117Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:55.029Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:56.196Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:57.110Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:58.242Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:13:59.158Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:00.070Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:01.233Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:02.163Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:03.077Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:04.197Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:05.117Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:06.034Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:07.201Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:08.123Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:09.242Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:10.159Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:11.085Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:12.238Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:13.167Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:14.070Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:15.190Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:16.122Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:17.028Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:18.196Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:19.128Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:20.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:21.153Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:22.087Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:23.249Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:24.159Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:25.089Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:26.214Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:27.120Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:28.049Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:29.195Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:30.123Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:31.245Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:32.153Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:33.081Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:34.249Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:35.159Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:36.090Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:37.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:38.117Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:39.044Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:40.223Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:41.123Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:42.242Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:43.169Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:44.080Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:45.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:46.159Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:47.086Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:48.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:49.117Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:50.044Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:51.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:52.122Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:53.241Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:54.169Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:55.080Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:56.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:57.158Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:58.086Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:14:59.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:00.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:01.043Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:02.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:03.122Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:04.241Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:05.169Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:06.080Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:07.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:08.178Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:09.086Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:10.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:11.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:12.047Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:13.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:14.122Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:15.241Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:16.168Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:17.080Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:18.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:19.174Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:20.085Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:21.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:22.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:23.043Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:24.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:25.137Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:26.256Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:27.168Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:28.096Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:29.247Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:30.174Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:31.089Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:32.205Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:33.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:34.043Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:35.211Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:36.138Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:37.257Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:38.168Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:39.096Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:40.263Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:41.174Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:42.101Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:43.221Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:44.132Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:45.063Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:46.210Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:47.138Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"0","on/off state":"0","timestamp":"2021-06-07T02:15:48.256Z","voltage (set) [V]":"47.1","voltage [V]":"0","current (set) [A]":"1"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:01.006Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:02.230Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:04.500Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:05.507Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:08.222Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:09.180Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:10.132Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:13.196Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:14.431Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:16.659Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:17.639Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:18.597Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:21.000Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:22.148Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:24.606Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:25.765Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:26.892Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:29.287Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:30.496Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:31.775Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:32.697Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:33.699Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:35.699Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:36.699Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:38.699Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:39.700Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:40.701Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:42.707Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:43.704Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:45.706Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:46.711Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:47.708Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:49.710Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:50.714Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:52.717Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:53.713Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:54.718Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:16:56.720Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:16:57.717Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:16:59.718Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:17:00.723Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:17:01.720Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:17:03.721Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:17:04.721Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:17:06.723Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:17:07.724Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:17:08.724Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:19.926Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:20.910Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:22.920Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:23.920Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:18:25.920Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:26.917Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:27.918Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:29.928Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:30.916Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:18:32.929Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:33.925Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:34.924Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:36.922Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:37.932Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:18:39.917Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:40.921Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:41.922Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:43.924Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:44.927Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:18:46.928Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:47.925Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:48.925Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:50.929Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:51.995Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:18:53.999Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:54.991Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:55.994Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:18:57.991Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:18:58.992Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:00.989Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:02.001Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:02.996Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:05.000Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:06.007Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:07.996Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:08.996Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:09.999Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:11.997Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:13.006Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:14.997Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:16.000Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:17.006Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:19.002Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:19.999Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:22.002Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:23.006Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:24.006Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:26.007Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:27.008Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:29.009Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:30.010Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:31.003Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:33.004Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:34.011Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:36.008Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:37.005Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:38.009Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:40.011Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:41.012Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:43.009Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:44.009Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:45.020Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:47.016Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:48.018Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:50.019Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:51.020Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:52.018Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:19:54.018Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:55.018Z","voltage (set) [V]":"NaN"}
+{"current [A]":"NaN","timestamp":"2021-06-07T02:19:57.020Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:58.024Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T02:19:59.021Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"timestamp":"2021-06-07T02:20:01.049Z","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}

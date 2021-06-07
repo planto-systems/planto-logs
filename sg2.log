@@ -34507,3 +34507,4791 @@
 {"power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T02:59:58.387Z"}
 {"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T02:59:59.308Z","power [W]":"297.15"}
 {"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:00.469Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:01.389Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:02.510Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:03.431Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:04.351Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:05.513Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:06.433Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:07.353Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:08.474Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:09.393Z"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:10.313Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:11.476Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:12.396Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:13.517Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:14.440Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:15.357Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:16.519Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:17.439Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:18.361Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:19.479Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:20.400Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:21.319Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:22.483Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:23.402Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:24.524Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:25.447Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:26.363Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:27.525Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:28.445Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:29.366Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:30.486Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:31.406Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:32.327Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:33.489Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"0.1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:36.695Z"}
+{"voltage (set) [V]":"49","voltage [V]":"47.27","current (set) [A]":"1","current [A]":"0.999","on/off state":"1","timestamp":"2021-06-07T03:00:38.548Z"}
+{"voltage [V]":"24.81","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:39.477Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","voltage (set) [V]":"49","voltage [V]":"20.17"}
+{"on/off state":"0","timestamp":"2021-06-07T03:00:40.627Z","voltage (set) [V]":"49","voltage [V]":"7.19","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:00:42.709Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:43.830Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:44.750Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:45.670Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:46.833Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:00:47.752Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:00:49.794Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:50.713Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:51.637Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:52.794Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:53.716Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:00:54.840Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:00:56.677Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:57.839Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:58.758Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:00:59.679Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:00.799Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:01.719Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:03.802Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:04.722Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:05.843Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:06.765Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:07.683Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:08.845Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:10.684Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:11.806Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:12.726Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:13.646Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:14.807Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:15.728Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:17.769Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:18.688Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:19.858Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:20.770Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:21.691Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:22.812Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:24.651Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:25.814Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:26.735Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:27.856Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:28.775Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:29.695Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:31.777Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:32.697Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:33.818Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:34.736Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:35.660Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:36.820Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:38.861Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:39.780Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:40.701Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:41.862Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:42.783Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:43.703Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:45.744Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:46.664Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:47.826Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:48.747Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:49.666Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:50.787Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:52.870Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:53.790Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:54.710Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:55.830Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:01:56.750Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:01:57.670Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:01:59.753Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:00.676Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:01.793Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:02.713Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:03.645Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:04.796Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:06.836Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:07.756Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:08.675Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:09.841Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:10.758Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:11.681Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:13.719Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:14.638Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:15.801Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:16.720Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:17.841Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:18.761Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:20.843Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:21.763Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:22.683Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:23.804Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:24.724Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:25.644Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:27.726Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:28.847Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:29.767Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:30.686Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:31.848Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:32.769Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:34.809Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:35.729Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:36.649Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:37.812Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:38.731Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:39.853Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:41.692Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:42.854Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:43.775Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:44.694Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:45.815Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:46.736Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:48.818Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:49.741Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:50.858Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:51.779Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:52.698Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:02:53.861Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:02:55.700Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:56.821Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:57.741Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:58.661Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:02:59.824Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:00.747Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:02.784Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:03.704Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:04.869Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:05.786Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:06.706Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:07.827Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:09.666Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:10.830Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:11.753Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:12.871Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:13.790Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:14.710Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:16.792Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:17.712Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:18.834Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:19.753Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:20.673Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:21.836Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:23.877Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:24.797Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:25.717Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:26.879Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:27.799Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:28.719Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:30.760Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:31.679Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:32.843Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:33.762Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:34.884Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:35.803Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:37.886Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:38.805Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:39.731Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:40.850Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:41.766Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:42.686Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:44.768Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:45.890Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:46.810Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:47.729Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:48.895Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:49.812Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:51.852Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:52.772Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:53.692Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:54.855Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:55.774Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:03:56.896Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:03:58.738Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:03:59.901Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:00.818Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:01.737Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:02.859Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:04:03.778Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:04:05.861Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:06.780Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:09.987Z"}
+{"voltage (set) [V]":"49","voltage [V]":"47.31","current (set) [A]":"1","current [A]":"1","on/off state":"1","timestamp":"2021-06-07T03:04:11.838Z"}
+{"voltage [V]":"24.83","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:12.767Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","voltage (set) [V]":"49","voltage [V]":"20.19"}
+{"on/off state":"0","timestamp":"2021-06-07T03:04:13.917Z","voltage (set) [V]":"49","voltage [V]":"11.36","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:04:16.000Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:16.919Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:18.045Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:18.960Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:19.880Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:04:21.042Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:04:22.882Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:24.003Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:24.923Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:25.843Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:27.005Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:27.925Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:29.047Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:29.966Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:30.887Z","power [W]":"297.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:32.048Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:32.968Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:33.888Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:35.009Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:35.929Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:36.849Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:38.012Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:38.930Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:40.053Z","power [W]":"297.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:40.971Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:41.892Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:43.055Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:43.974Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:44.894Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:46.015Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:46.935Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:47.854Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:49.017Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:49.937Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:51.058Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:51.979Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:52.895Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:54.059Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:54.979Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:55.899Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:57.020Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:57.940Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:04:58.860Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:00.023Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:00.945Z","power [W]":"297.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:02.063Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:05:02.983Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:05.269Z","power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","voltage (set) [V]":"49","voltage [V]":"11.5","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"1","timestamp":"2021-06-07T03:05:07.121Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"37.03","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:08.054Z","voltage (set) [V]":"49","voltage [V]":"27.02","current (set) [A]":"1"}
+{"on/off state":"0","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"18.03","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:05:09.443Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"9.26","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:05:10.363Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"1.05","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:05:11.287Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:05:13.365Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:14.487Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:15.407Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:16.326Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:17.246Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:18.408Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:19.328Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:20.449Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:21.369Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:22.289Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:23.452Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:24.374Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:25.291Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:26.412Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:27.332Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:28.254Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:29.414Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:30.340Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:31.459Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:32.374Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:33.294Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:34.458Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:35.376Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:36.297Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:37.417Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:38.337Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:39.256Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:40.419Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:41.342Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:42.460Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:43.380Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:44.299Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:45.473Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:46.382Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:47.311Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:48.423Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:49.345Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:50.262Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:51.437Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:52.344Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:53.466Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:54.386Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:55.307Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:56.482Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:57.410Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:58.325Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:05:59.430Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:00.350Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:01.268Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:02.442Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:03.354Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:04.475Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:05.392Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:06.311Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:07.475Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:08.406Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:09.313Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:10.448Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:11.355Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:06:12.275Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:06:13.443Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:06:14.370Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:15.479Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:16.398Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:17.318Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:18.497Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:19.405Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:20.335Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:21.441Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:23.284Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:24.447Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:25.366Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:26.488Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:27.404Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:28.323Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:29.490Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:30.414Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:31.336Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:32.447Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:35.859Z","power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","voltage (set) [V]":"49","voltage [V]":"47.31","current (set) [A]":"1"}
+{"current [A]":"0.999","on/off state":"1","timestamp":"2021-06-07T03:06:37.697Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"29.52","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:38.622Z","voltage (set) [V]":"49","voltage [V]":"24.83","current (set) [A]":"1"}
+{"on/off state":"0","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"20.2","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:06:39.769Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"11.36","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:40.688Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:06:42.771Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:43.690Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:44.812Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:45.735Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:46.894Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:47.828Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:48.737Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:49.859Z"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:50.775Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:51.694Z","power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:52.857Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:53.780Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:54.898Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:55.818Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:56.742Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:57.665Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:58.820Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:06:59.741Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:00.865Z","power [W]":"NaN"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:01.780Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:02.710Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:03.863Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:04.783Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:05.701Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:06.823Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:07.743Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:08.663Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:09.825Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:10.759Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:11.871Z","power [W]":"NaN","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:12.786Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:13.706Z","power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:28.288Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0"}
+{"timestamp":"2021-06-07T03:07:31.223Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:32.333Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0"}
+{"timestamp":"2021-06-07T03:07:33.541Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:34.975Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0"}
+{"timestamp":"2021-06-07T03:07:37.844Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"on/off state":"0","timestamp":"2021-06-07T03:07:39.153Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:40.092Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN"}
+{"current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:41.389Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:42.910Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"on/off state":"0","timestamp":"2021-06-07T03:07:44.951Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:46.390Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN"}
+{"voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","voltage (set) [V]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"on/off state":"0","timestamp":"2021-06-07T03:07:47.893Z","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
+{"current (set) [A]":"NaN","current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:49.554Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN","on/off state":"0","timestamp":"2021-06-07T03:07:50.998Z"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"NaN"}
+{"power [W]":"297.15"}
+{"power [W]":"NaN"}
+{"power [W]":"297.15"}
+{"power [W]":"297.15"}
+{"power [W]":"296.15","on/off state":"0","timestamp":"2021-06-07T03:07:51.906Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:52.491Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:53.617Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:54.542Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:55.454Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:56.617Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:57.536Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:58.456Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:07:59.582Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:00.497Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:01.416Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:02.579Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:03.498Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:04.620Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:05.544Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:06.459Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:07.621Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:08.541Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:09.461Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:10.586Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:11.509Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:12.421Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:13.587Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:14.503Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:15.625Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:08:16.546Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:08:17.465Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:18.627Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:19.546Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:20.466Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:21.592Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:22.519Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:23.427Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:24.589Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:25.508Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:08:27.552Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:28.470Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:29.632Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:30.552Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:31.472Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:32.593Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:33.521Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:34.437Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:35.596Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:36.520Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:37.636Z"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:38.556Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:39.476Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:40.639Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:41.558Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:42.482Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:43.600Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:44.519Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:45.438Z","power [W]":"296.15"}
+{"voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:46.601Z"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:47.522Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:48.643Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:49.563Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:50.487Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:51.644Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:52.565Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:53.485Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:54.606Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:55.526Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:56.445Z","power [W]":"296.15","voltage (set) [V]":"49"}
+{"voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:57.608Z","voltage (set) [V]":"49"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:58.527Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:08:59.649Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:00.569Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:01.488Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:02.651Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:03.571Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:04.490Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:05.612Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:06.531Z","voltage (set) [V]":"49","voltage [V]":"0"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:07.451Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:08.614Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:09.533Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:10.655Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:11.575Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:12.495Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:13.657Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:14.577Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:15.497Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:16.618Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:17.538Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:18.462Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:19.621Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:20.544Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:21.662Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:22.581Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:23.501Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:24.664Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:25.583Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:26.502Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"on/off state":"0","timestamp":"2021-06-07T03:09:27.624Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0"}
+{"timestamp":"2021-06-07T03:09:28.544Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:29.468Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:30.627Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:31.546Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:32.668Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:33.588Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:34.510Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:35.671Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:36.591Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:37.514Z","power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"timestamp":"2021-06-07T03:09:39.553Z","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:40.472Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:41.635Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:42.554Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:43.676Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:44.595Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:45.515Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:46.676Z"}
+{"power [W]":"296.15","voltage (set) [V]":"49","voltage [V]":"0","current (set) [A]":"1","current [A]":"0","on/off state":"0","timestamp":"2021-06-07T03:09:47.596Z"}
+{"voltage (set) [V]":"NaN","voltage [V]":"NaN","current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T03:09:57.815Z"}
+{"current (set) [A]":"NaN","current [A]":"NaN","timestamp":"2021-06-07T03:09:58.818Z","voltage (set) [V]":"NaN","voltage [V]":"NaN"}
